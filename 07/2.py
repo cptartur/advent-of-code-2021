@@ -1,6 +1,5 @@
 from io import open_code
-from math import fabs, floor
-from functools import reduce
+from math import fabs
 
 
 def progression_sum(n: int) -> int:
